@@ -1,0 +1,7 @@
+# Mozilla Deepspeech
+build-essential
+libboost-all-dev
+cmake
+zlib1g-dev
+libbz2-dev
+liblzma-dev
